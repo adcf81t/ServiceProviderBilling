@@ -28,7 +28,7 @@ public class InternetServiceProviderBilling
 			if (true==selectedPackage.toUpperCase().equals("A") || true==selectedPackage.toUpperCase().equals("B") || true==selectedPackage.toUpperCase().equals("C"))
 				break;
 			else
-				System.out.println("Invalid package ! Please try again ! Valid internet packages are A,B,C !");
+				System.out.println("Invalid package !  Please try again ! Valid internet packages are A,B,C !");
 		}
 
 		while(true)
